@@ -53,3 +53,4 @@ For elements that are included in the official [DTD](https://github.com/Podcasti
 
 ## Location `<podcast:location>`
 1. [Buzzsprout](https://twitter.com/buzzsprout/status/1357020753745633282)
+2. [Podfriend](https://twitter.com/adamcurry/status/1357003546709938181)
